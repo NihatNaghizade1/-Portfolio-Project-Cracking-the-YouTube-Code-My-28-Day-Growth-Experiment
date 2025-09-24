@@ -1,0 +1,2 @@
+# -Portfolio-Project-Cracking-the-YouTube-Code-My-28-Day-Growth-Experiment
+This project, “Cracking the YouTube Code – 28-Day Growth Experiment,” showcases how I applied a structured, data-driven content strategy to rapidly grow a YouTube channel. Over 28 days, I combined SEO optimization, content design, audience analysis, and performance tracking to increase visibility, engagement, and retention.
