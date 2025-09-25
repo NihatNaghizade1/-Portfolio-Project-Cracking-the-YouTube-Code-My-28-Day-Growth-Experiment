@@ -7,6 +7,8 @@ This project documents my 28-day YouTube growth experiment, where I applied data
 
 The experiment combined SEO, behavioral analytics, design theory, and automation to validate how a disciplined content strategy can rapidly scale a YouTube channel.
 
+---
+
 🎯 Objectives
 
 Grow organic visibility & impressions without paid ads
@@ -17,6 +19,8 @@ Experiment with SEO-driven video strategies (titles, tags, descriptions)
 
 Apply marketing frameworks (funnel thinking, A/B testing, cross-promotion)
 
+---
+
 📊 Results Snapshot
 
 +10,482 views in 28 days
@@ -26,6 +30,8 @@ Apply marketing frameworks (funnel thinking, A/B testing, cross-promotion)
 +737% increase in watch time (8.5 hours watched)
 
 Impressions: reported 1.5B (platform bug, but growth trend confirmed)
+
+---
 
 🛠️ Tools & Platforms Used
 
@@ -43,6 +49,8 @@ Notion – Content calendar & publishing workflow
 
 Instagram Insights – Cross-promotion & funnel engagement
 
+---
+
 🔑 Key Actions
 
 Audience Analysis – Researched demand-driven topics with Google Trends & competitor benchmarking
@@ -55,6 +63,8 @@ Performance Iteration – Adjusted intros, titles, and thumbnails based on analy
 
 Cross-Promotion – Promoted content via Instagram Stories, Reels, and CTA swipe-ups
 
+---
+
 🚀 What This Project Demonstrates
 
 Ability to merge creative storytelling & analytical decision-making
@@ -64,6 +74,8 @@ Understanding of audience psychology & platform algorithms
 Experience in multi-channel strategy (YouTube + Instagram)
 
 Strong skills in data analysis, content design, and marketing frameworks
+
+---
 
 🔗 Project Resources
 
